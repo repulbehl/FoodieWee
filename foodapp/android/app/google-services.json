@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204290449880",
+    "project_id": "foodiewee-64ec3",
+    "storage_bucket": "foodiewee-64ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204290449880:android:fbf584c5fbe159b5e712ad",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204290449880-erhb7r6e8eaq179rh27kqfhrce62u7l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTfwZM5oPOi9gnEqVN2_wS115RflDi3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204290449880-erhb7r6e8eaq179rh27kqfhrce62u7l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
