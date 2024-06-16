@@ -1,14 +1,14 @@
 **Foodie Wee**
-It's an android applications :
+It's an android applications :/n
 **Functionalities** : 
           --> Order Food 
           --> List Food items 
           --> Add New Food items
-          --> Make Order Payments
+          --> Make Order Payments /n
 **Backend Language Used** :  
-          --> Dart
+          --> Dart /n
 **FrontEnd Language Used** :
-          --> Flutter 
+          --> Flutter /n
 **Database**:
-          --> Firebase
+          --> Firebase  /n
           
